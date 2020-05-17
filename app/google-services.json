@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836174751509",
+    "firebase_url": "https://project-alphanso-d11ff.firebaseio.com",
+    "project_id": "project-alphanso-d11ff",
+    "storage_bucket": "project-alphanso-d11ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836174751509:android:fa848db842177f86742b1c",
+        "android_client_info": {
+          "package_name": "com.example.project_alphanso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836174751509-s4kj2legkmveavg6hfm2bl1j1utekik9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_alphanso",
+            "certificate_hash": "a9461e5260a0a38199dbde3fdfad8ac6045f6ac0"
+          }
+        },
+        {
+          "client_id": "836174751509-b0kftc45ntu26v1qu3mcmtt23fuaencd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWyqjE-KZpAokvZP_M9Ly1DMzd4dKCFTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836174751509-b0kftc45ntu26v1qu3mcmtt23fuaencd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
